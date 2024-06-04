@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+}
+
+input {
+    margin: 5px;
+    width: 750px;
+}
+
+label {
+    display: block;
+}
+
+textarea {
+    width: 750px;
+    height: 150px;
+}
